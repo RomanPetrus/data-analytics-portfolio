@@ -10,6 +10,12 @@ Curated portfolio of data analytics projects, focused on practical skills for Da
 - Basic Statistics / Modeling
 - Reproducibility & Project Structure
 
+## Featured Project (ETL + SQL)
+
+### 🏦 Banks ETL — Market Capitalization
+Multi-source ETL pipeline (HTML + CSV exchange rates), cleaning + enrichment, and SQLite queries.  
+Repo: https://github.com/RomanPetrus/web-scraping-etl/tree/main/projects/banks_etl
+
 ## Projects
 
 ### SQL & ETL
